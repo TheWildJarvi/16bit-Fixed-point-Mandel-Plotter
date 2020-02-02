@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="-80 -80 220 220"
+   version="1.1"
+   id="svg44"
+   sodipodi:docname="NEWscreenMAP128.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata48">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs46" />
+  <sodipodi:namedview
+     showgrid="true"
+     id="namedview4"
+     inkscape:zoom="2.1454545"
+     inkscape:cx="208.93641"
+     inkscape:cy="156.44042"
+     inkscape:window-width="1554"
+     inkscape:window-height="1048"
+     inkscape:window-x="997"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg44">
+    <inkscape:grid
+       type="xygrid"
+       empspacing="4"
+       spacingx="5"
+       spacingy="5"
+       id="grid2" />
+  </sodipodi:namedview>
+  <rect
+     x="-75"
+     y="-75"
+     width="210"
+     height="210"
+     id="rect6"
+     style="fill:#ff8080;fill-opacity:0.78431373;stroke:#000000;stroke-width:12.12435627" />
+  <g
+     id="g12"
+     transform="matrix(0.77289233,0,0,1,-78.986407,-20.508474)">
+    <circle
+       id="pin:ResetToNeg2"
+       cx="0"
+       cy="0"
+       r="3"
+       style="fill:#0000b2" />
+    <text
+       font-size="18"
+       x="14.17406"
+       y="5.6535048"
+       id="text10"
+       style="font-size:16.96051407px;fill:#808080;stroke-width:0.94225085"
+       transform="scale(0.94225083,1.0612885)">ResetToNeg2</text>
+  </g>
+  <g
+     id="g17"
+     transform="translate(-78.305085,0.23305085)">
+    <circle
+       id="pin:clock"
+       cx="0"
+       cy="20"
+       r="3"
+       style="fill:#0000b2" />
+    <text
+       font-size="18"
+       x="9.3601694"
+       y="25.766949"
+       id="text15"
+       style="font-size:18px;fill:#808080">clock</text>
+  </g>
+  <g
+     id="g22"
+     transform="translate(-77.838983,19.576271)">
+    <circle
+       id="pin:enable"
+       cx="0"
+       cy="40"
+       r="3"
+       style="fill:#0000b2" />
+    <text
+       font-size="18"
+       x="10.059322"
+       y="45.766949"
+       id="text20"
+       style="font-size:18px;fill:#808080">enable</text>
+  </g>
+  <g
+     id="g27"
+     transform="translate(77.712167,-40.166381)">
+    <circle
+       id="pin:mapREAL"
+       cx="60"
+       cy="0"
+       r="3"
+       style="fill:#b20000" />
+    <text
+       font-size="18"
+       x="49.078743"
+       y="6"
+       id="text25"
+       style="font-size:18px;text-anchor:end;fill:#808080">mapREAL</text>
+  </g>
+  <g
+     id="g32"
+     transform="translate(77.559086,-19.755616)">
+    <circle
+       id="pin:mapIMAGE"
+       cx="60"
+       cy="20"
+       r="3"
+       style="fill:#b20000" />
+    <text
+       font-size="18"
+       x="49.408325"
+       y="26"
+       id="text30"
+       style="font-size:18px;text-anchor:end;fill:#808080">mapIMAGE</text>
+  </g>
+  <g
+     id="g37"
+     transform="translate(77.807522,0.00686032)">
+    <circle
+       id="pin:Xcoord"
+       cx="60"
+       cy="40"
+       r="3"
+       style="fill:#b20000" />
+    <text
+       font-size="18"
+       x="50.726662"
+       y="46"
+       id="text35"
+       style="font-size:18px;text-anchor:end;fill:#808080">Xcoord</text>
+  </g>
+  <g
+     id="g42"
+     transform="translate(77.701289,20.078339)">
+    <circle
+       id="pin:Ycoord"
+       cx="60"
+       cy="60"
+       r="3"
+       style="fill:#b20000" />
+    <text
+       font-size="18"
+       x="51.38583"
+       y="65.670418"
+       id="text40"
+       style="font-size:18px;text-anchor:end;fill:#808080">Ycoord</text>
+  </g>
+</svg>

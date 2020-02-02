@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="-80 -80 220 180"
+   version="1.1"
+   id="svg29"
+   sodipodi:docname="halfadder.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata33">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs31">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect38"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <sodipodi:namedview
+     showgrid="true"
+     id="namedview4"
+     inkscape:zoom="5.1636364"
+     inkscape:cx="105.55155"
+     inkscape:cy="128.79745"
+     inkscape:window-width="2560"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg29">
+    <inkscape:grid
+       type="xygrid"
+       empspacing="4"
+       spacingx="5"
+       spacingy="5"
+       id="grid2" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#ff2a7f;fill-opacity:0.78431373;stroke:#000000;stroke-width:4.47213602"
+     d="M 0,-35 H 60 V 15 H 0 Z"
+     id="rect6"
+     inkscape:connector-curvature="0" />
+  <g
+     id="g12"
+     transform="translate(0,-20.140845)">
+    <circle
+       id="pin:a"
+       cx="0"
+       cy="0"
+       r="3"
+       style="fill:#0000b2" />
+    <text
+       font-size="18"
+       x="4"
+       y="6"
+       id="text10"
+       style="font-size:18px;fill:#808080">a</text>
+  </g>
+  <g
+     id="g17"
+     transform="translate(-0.38732394,-19.753521)">
+    <circle
+       id="pin:b"
+       cx="0"
+       cy="20"
+       r="3"
+       style="fill:#0000b2" />
+    <text
+       font-size="18"
+       x="4"
+       y="26"
+       id="text15"
+       style="font-size:18px;fill:#808080">b</text>
+  </g>
+  <g
+     id="g22"
+     transform="translate(-0.19366197,-19.366197)">
+    <circle
+       id="pin:xor"
+       cx="60"
+       cy="0"
+       r="3"
+       style="fill:#b20000" />
+    <text
+       font-size="18"
+       x="56"
+       y="6"
+       id="text20"
+       style="font-size:18px;text-anchor:end;fill:#808080">xor</text>
+  </g>
+  <g
+     id="g27"
+     transform="translate(0,-20.528169)">
+    <ellipse
+       id="pin:and"
+       cx="60"
+       cy="20"
+       style="fill:#b20000"
+       r="3" />
+    <text
+       font-size="18"
+       x="56"
+       y="26"
+       id="text25"
+       style="font-size:18px;text-anchor:end;fill:#808080">and</text>
+  </g>
+</svg>
