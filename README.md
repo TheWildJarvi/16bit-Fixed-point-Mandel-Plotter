@@ -2,7 +2,7 @@
 -----------------------------------
 ## Download Digital: https://github.com/hneemann/Digital
 
-open the MANDELBROT.dig file inside Digital.
+open the MANDELBROT.dig file found inside the folder with the description "	IT WORKSSSSSSSSSS!!!!!!"  inside Digital.
 
 Start the simulation
 
