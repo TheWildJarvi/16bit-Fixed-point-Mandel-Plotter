@@ -16,4 +16,5 @@ put a '0' on ResetToNeg2
 It is now rendering the mandelbrot set!
 
 Here is a video showing those steps along with the render: https://www.youtube.com/watch?v=dLpp3IB_Nik
+Here is a break down video of it: https://youtu.be/kY71qHJ4498
 
